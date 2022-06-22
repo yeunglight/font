@@ -8,4 +8,6 @@ git  raw resource https://raw.githubusercontent.com/yeunglight/font/master/index
 
 jsdelivr resource https://cdn.jsdelivr.net/gh/yeunglight/font/index.js
                   
-https://cdn.jsdelivr.net/gh/{user}/{repositories}/{filePath}
+specification https://cdn.jsdelivr.net/gh/{user}/{repositories}/{filePath}
+ 
+you can review https://github.com/barryzpc/pic-repo  
